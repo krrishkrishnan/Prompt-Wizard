@@ -181,14 +181,6 @@ npm run lint     # Run ESLint
 
 ---
 
-## 📚 Documentation
-
-- `PROJECT_STATUS.md` - Technical architecture details
-- `COMMIT_SUMMARY.md` - Latest changes and features
-- `PRE_COMMIT_CHECKLIST.md` - Verification checklist
-
----
-
 ## 🤝 Contributing
 
 1. Create a feature branch (`git checkout -b feature/awesome-feature`)
@@ -215,4 +207,4 @@ MIT License - feel free to use, modify, and share
 5. Get architecture plan
 6. Start building! 🎉
 
-**Questions?** Check `PROJECT_STATUS.md` for technical details or try again with more specific app details.
+**Questions?** Check the source code or try again with more specific app details.
